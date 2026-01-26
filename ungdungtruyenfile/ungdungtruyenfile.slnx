@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FileTransferClient/FileTransferClient.csproj" />
+  <Project Path="FileTransferServer/FileTransferServer.csproj" />
+  <Project Path="FileTransfer_Lib/FileTransfer_Lib.csproj" Id="d6c072c3-89c0-4e92-95a1-e14accd2eac7" />
+</Solution>

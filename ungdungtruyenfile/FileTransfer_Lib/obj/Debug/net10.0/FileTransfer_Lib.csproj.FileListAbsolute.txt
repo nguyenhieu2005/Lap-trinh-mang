@@ -1,0 +1,11 @@
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\bin\Debug\net10.0\FileTransfer_Lib.deps.json
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\bin\Debug\net10.0\FileTransfer_Lib.dll
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\bin\Debug\net10.0\FileTransfer_Lib.pdb
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.AssemblyInfoInputs.cache
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.AssemblyInfo.cs
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.csproj.CoreCompileInputs.cache
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.dll
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\refint\FileTransfer_Lib.dll
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.pdb
+C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\ref\FileTransfer_Lib.dll

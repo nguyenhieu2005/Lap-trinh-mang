@@ -1,0 +1,16 @@
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.Form1.resources
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.csproj.GenerateResource.cache
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.AssemblyInfoInputs.cache
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.AssemblyInfo.cs
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.csproj.CoreCompileInputs.cache
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\bin\Debug\net10.0-windows\FileTransferServer.exe
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\bin\Debug\net10.0-windows\FileTransferServer.deps.json
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\bin\Debug\net10.0-windows\FileTransferServer.runtimeconfig.json
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\bin\Debug\net10.0-windows\FileTransferServer.dll
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\bin\Debug\net10.0-windows\FileTransferServer.pdb
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.dll
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\refint\FileTransferServer.dll
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.pdb
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\FileTransferServer.genruntimeconfig.cache
+C:\New folder (14)\ungdungtruyenfile\FileTransferServer\obj\Debug\net10.0-windows\ref\FileTransferServer.dll
