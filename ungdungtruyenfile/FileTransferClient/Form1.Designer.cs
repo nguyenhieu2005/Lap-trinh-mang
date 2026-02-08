@@ -2,38 +2,49 @@
 {
     partial class Form1
     {
-        /// <summary>
-        ///  Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.TextBox txtIP;
+        private System.Windows.Forms.TextBox txtPort;
+        private System.Windows.Forms.TextBox txtSenderId;
+        private System.Windows.Forms.TextBox txtReceiverId;
+        private System.Windows.Forms.TextBox txtFile;
+        private System.Windows.Forms.Button btnBrowse;
+        private System.Windows.Forms.Button btnSend;
+        private System.Windows.Forms.Button btnConnect;
+        private System.Windows.Forms.ProgressBar progressBar1;
 
-        /// <summary>
-        ///  Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {
                 components.Dispose();
-            }
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Text = "Form1";
-        }
+            txtIP = new System.Windows.Forms.TextBox();
+            txtPort = new System.Windows.Forms.TextBox();
+            txtSenderId = new System.Windows.Forms.TextBox();
+            txtReceiverId = new System.Windows.Forms.TextBox();
+            txtFile = new System.Windows.Forms.TextBox();
+            btnBrowse = new System.Windows.Forms.Button();
+            btnSend = new System.Windows.Forms.Button();
+            btnConnect = new System.Windows.Forms.Button();
+            progressBar1 = new System.Windows.Forms.ProgressBar();
 
-        #endregion
+            btnConnect.Text = "Connect";
+            btnSend.Text = "Send File";
+            btnBrowse.Text = "Browse";
+
+            btnConnect.Click += btnConnect_Click;
+            btnSend.Click += btnSend_Click;
+            btnBrowse.Click += btnBrowse_Click;
+
+            Controls.AddRange(new System.Windows.Forms.Control[]
+            {
+                txtIP, txtPort, txtSenderId, txtReceiverId,
+                txtFile, btnBrowse, btnSend, btnConnect, progressBar1
+            });
+        }
     }
 }

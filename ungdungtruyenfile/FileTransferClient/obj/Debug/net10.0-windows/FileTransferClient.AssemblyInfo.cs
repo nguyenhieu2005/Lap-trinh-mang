@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileTransferClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aa399abb3fb4d73e0f7f5e5b044d6fb743c5b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileTransferClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileTransferClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

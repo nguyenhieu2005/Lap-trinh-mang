@@ -9,3 +9,15 @@ C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTran
 C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\refint\FileTransfer_Lib.dll
 C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.pdb
 C:\New folder (14)\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\ref\FileTransfer_Lib.dll
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\bin\Debug\net10.0\FileTransfer_Lib.deps.json
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\bin\Debug\net10.0\FileTransfer_Lib.dll
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\bin\Debug\net10.0\FileTransfer_Lib.pdb
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.AssemblyInfoInputs.cache
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.AssemblyInfo.cs
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.csproj.CoreCompileInputs.cache
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.sourcelink.json
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.dll
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\refint\FileTransfer_Lib.dll
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\FileTransfer_Lib.pdb
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransfer_Lib\obj\Debug\net10.0\ref\FileTransfer_Lib.dll

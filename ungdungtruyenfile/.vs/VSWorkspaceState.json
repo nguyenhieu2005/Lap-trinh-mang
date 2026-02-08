@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CA",
+    "\\Database",
+    "\\FileTransferClient",
+    "\\FileTransferServer",
+    "\\FileTransferServer\\Database",
+    "\\FileTransfer_Lib",
+    "\\FileTransfer_Lib\\DTO",
+    "\\FileTransfer_Lib\\Network",
+    "\\FileTransfer_Lib\\Security"
   ],
-  "SelectedNode": "\\ungdungtruyenfile.slnx",
+  "SelectedNode": "\\FileTransferClient\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

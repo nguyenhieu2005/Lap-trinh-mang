@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dAGgSINYVs8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pksai\\Desktop\\lập trình mạng\\csharp\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pksai\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\pksai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\pksai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

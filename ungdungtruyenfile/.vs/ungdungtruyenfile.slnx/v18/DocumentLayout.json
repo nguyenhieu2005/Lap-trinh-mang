@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\New folder (14)\\ungdungtruyenfile\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5138D011-B303-BD45-F0CC-6A35389F9943}|FileTransferServer\\FileTransferServer.csproj|c:\\new folder (14)\\ungdungtruyenfile\\filetransferserver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5138D011-B303-BD45-F0CC-6A35389F9943}|FileTransferServer\\FileTransferServer.csproj|solutionrelative:filetransferserver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5138D011-B303-BD45-F0CC-6A35389F9943}|FileTransferServer\\FileTransferServer.csproj|c:\\new folder (14)\\ungdungtruyenfile\\filetransferserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5138D011-B303-BD45-F0CC-6A35389F9943}|FileTransferServer\\FileTransferServer.csproj|solutionrelative:filetransferserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\pksai\\Desktop\\l\u1EADp tr\u00ECnh m\u1EA1ng\\Lap-trinh-mang\\ungdungtruyenfile\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,33 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\New folder (14)\\ungdungtruyenfile\\FileTransferServer\\Form1.cs",
-              "RelativeDocumentMoniker": "FileTransferServer\\Form1.cs",
-              "ToolTip": "C:\\New folder (14)\\ungdungtruyenfile\\FileTransferServer\\Form1.cs",
-              "RelativeToolTip": "FileTransferServer\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:46:46.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\New folder (14)\\ungdungtruyenfile\\FileTransferServer\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "FileTransferServer\\Form1.Designer.cs",
-              "ToolTip": "C:\\New folder (14)\\ungdungtruyenfile\\FileTransferServer\\Form1.Designer.cs",
-              "RelativeToolTip": "FileTransferServer\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:46:37.768Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

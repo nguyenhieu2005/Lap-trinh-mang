@@ -14,3 +14,13 @@ C:\New folder (14)\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-window
 C:\New folder (14)\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.pdb
 C:\New folder (14)\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.genruntimeconfig.cache
 C:\New folder (14)\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\ref\FileTransferClient.dll
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.Form1.resources
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.csproj.GenerateResource.cache
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.AssemblyInfoInputs.cache
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.AssemblyInfo.cs
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.csproj.CoreCompileInputs.cache
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.sourcelink.json
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.dll
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\refint\FileTransferClient.dll
+C:\Users\pksai\Desktop\lập trình mạng\Lap-trinh-mang\ungdungtruyenfile\FileTransferClient\obj\Debug\net10.0-windows\FileTransferClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\Published\GuiClient.exe
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\Published\GuiClient.dll
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\Published\GuiClient.deps.json
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\Published\GuiClient.runtimeconfig.json
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\Published\GuiClient.pdb
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\Published\Shared.dll
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\Published\Shared.pdb

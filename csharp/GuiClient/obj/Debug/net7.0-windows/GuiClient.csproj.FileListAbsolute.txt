@@ -1,0 +1,16 @@
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\net7.0-windows\GuiClient.exe
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\net7.0-windows\GuiClient.deps.json
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\net7.0-windows\GuiClient.runtimeconfig.json
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\net7.0-windows\GuiClient.dll
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\net7.0-windows\GuiClient.pdb
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\net7.0-windows\Shared.dll
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\bin\Debug\net7.0-windows\Shared.pdb
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\GuiClient.csproj.AssemblyReference.cache
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\GuiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\GuiClient.csproj.CoreCompileInputs.cache
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\GuiClient.csproj.Up2Date
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\GuiClient.dll
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\refint\GuiClient.dll
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\GuiClient.pdb
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\GuiClient.genruntimeconfig.cache
+C:\Users\pksai\Desktop\lập trình mạng\csharp\GuiClient\obj\Debug\net7.0-windows\ref\GuiClient.dll
